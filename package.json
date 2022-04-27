@@ -1,0 +1,30 @@
+{
+  "name": "drishti",
+  "version": "1.0.0",
+  "description": "Interview test",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "ttl-mem-cache": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiokogit/interview-tests.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "cache"
+  ],
+  "author": "kiokogit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiokogit/interview-tests/issues"
+  },
+  "homepage": "https://github.com/kiokogit/interview-tests#readme"
+}
